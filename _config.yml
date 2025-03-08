@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Madhu's Blog
 description: Thoughts on AI, Technology, and the Future
 author: Madhu
-
+image: assets/images/profile.jpg
 # Site settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://madhuvod.github.io" # the base hostname & protocol
