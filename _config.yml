@@ -3,10 +3,15 @@ title: Madhu's Blog
 description: Thoughts on AI, Technology, and the Future
 author: Madhu
 
-# Social links (optional)
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://madhuvod.github.io" # the base hostname & protocol
+
+# Social links
 github_username: https://github.com/Madhuvod
 # twitter_username: your-twitter-handle
 
 # Blog settings
 show_excerpts: true
 future: true
+permalink: /:year/:month/:day/:title/
