@@ -9,3 +9,5 @@ Human Intelligence won't be Augmented anymore if Intelligence amplification is n
 
 This might be my first post about singularity and everything that is going on X on 8th march 2025 - people are baffling over mcp,and then there is AMD x tinycorp, george holtz invested 250k in AMD stock, cursor $10b valuation, and manus AI just released.
 
+currently: working on two workflow projects that make work in legal and real estate industries efficient respectively.
+MVPs soon
